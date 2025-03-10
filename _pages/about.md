@@ -12,7 +12,8 @@ I am Binh-Nguyen Nguyen, a senior at University of Engineering and Technology, V
 Education
 -----
 + Bachelor of Science in Computer Science <br>
-University of Engineering and Technology, Vietnam National University, Hanoi (Expected 2025)
+University of Engineering and Technology, Vietnam National University, Hanoi <br>
+_Aug 2021 - June 2025 (Expected)_
 
 Research Experience
 -----
