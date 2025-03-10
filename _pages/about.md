@@ -10,14 +10,14 @@ redirect_from:
 I am Binh-Nguyen Nguyen, a senior at University of Engineering and Technology, Vietnam National University, Hanoi.
 
 Education
-======
+-----
 + B.S. in Computer Science, University of Engineering and Technology, Vietnam National University, Hanoi, 2025 (Expected)
 
 Research Experience
-======
+-----
 + Undergraduate Research Assistant at Data Science & Knowledge Technology Lab, VNU-UET, advised by Dr. Hoang-Quynh Le.
 + Research Intern at Center for Frontier AI Research, A*STAR Agency for Science, Technology and Research, advised by Prof. He Yang.
 
 Publications
-======
-+ Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding
+-----
++ <p style="text-decoration:underline;"><a href="(https://aclanthology.org/2025.coling-main.49/)">Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding</a></p> **Binh-Nguyen Nguyen**, He Yang.
