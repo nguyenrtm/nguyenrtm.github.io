@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Binh-Nguyen Nguyen's Homepage"
+title                    : "Binh-Nguyen Nguyen"
 title_separator          : "-"
 name                     : &name "Binh-Nguyen Nguyen"
 description              : &description "Undergraduate Student at University of Engineering and Technology, Vietnam National University Hanoi"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Binh-Nguyen Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Undergrad Student at VNU-UET"
+  bio              : "Undergraduate Student at VNU-UET"
   location         : "Hanoi, Vietnam"
   employer         :
   uri              : # URL
