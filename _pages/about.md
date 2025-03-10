@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Binh-Nguyen Nguyen, a senior at University of Engineering and Technology, Vietnam National University, Hanoi.
+I am Binh-Nguyen Nguyen, a senior at University of Engineering and Technology, Vietnam National University, Hanoi. My research works focus on Natural Language Processing, particularly on the areas of Data Efficiency Methods for NLP and NLP for Biomedical Text.
 
 Education
 -----
-+ B.S. in Computer Science, University of Engineering and Technology, Vietnam National University, Hanoi, 2025 (Expected)
++ Bachelor of Science in Computer Science <br>
+University of Engineering and Technology, Vietnam National University, Hanoi (Expected 2025)
 
 Research Experience
 -----
-+ Research Intern at <a href="https://www.a-star.edu.sg/cfar">Center for Frontier AI Research, A*STAR Agency for Science, Technology and Research</a>, advised by Prof. Yang He.
-+ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">Data Science & Knowledge Technology Lab</a>, advised by Dr. Hoang-Quynh Le and MSc. Duy-Cat Can.
++ Research Intern at <a href="https://www.a-star.edu.sg/cfar">Center for Frontier AI Research, A*STAR Agency for Science, Technology and Research</a>, advised by <a href="https://he-y.github.io/">Prof. Yang He</a>.
++ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">Data Science & Knowledge Technology Lab</a>, advised by <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Dr. Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">MSc. Duy-Cat Can</a>.
 
 Selected Publications
 -----
