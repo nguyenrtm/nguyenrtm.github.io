@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Binh-Nguyen Nguyen, a senior at University of Engineering and Technology, Vietnam National University, Hanoi. My research works focus on Natural Language Processing, particularly on the areas of Data Efficiency Methods for NLP and NLP for Biomedical Text.
+I am Binh-Nguyen Nguyen, a senior at University of Engineering and Technology, Vietnam National University, Hanoi (VNU-UET). My research works focus on Natural Language Processing, particularly on the areas of Data Efficiency Methods for NLP and NLP for Biomedical Text.
 
 Education
 -----
-+ Bachelor of Science in Computer Science <br>
++ Bachelors Degree in Computer Science <br>
 University of Engineering and Technology, Vietnam National University, Hanoi <br>
 _Aug 2021 - June 2025 (Expected)_
 
