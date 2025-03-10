@@ -17,8 +17,8 @@ _Aug 2021 - June 2025 (Expected)_
 
 Research Experience
 -----
-+ Research Intern at <a href="https://www.a-star.edu.sg/cfar">Center for Frontier AI Research, A*STAR Agency for Science, Technology and Research</a>, advised by <a href="https://he-y.github.io/">Prof. Yang He</a>.
-+ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">Data Science & Knowledge Technology Lab</a>, advised by <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Dr. Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">MSc. Duy-Cat Can</a>.
++ Research Intern at <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research</a>, advised by <a href="https://he-y.github.io/">Prof. Yang He</a>.
++ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">DS&KT Lab</a>, advised by <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Dr. Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">MSc. Duy-Cat Can</a>.
 
 Selected Publications
 -----
