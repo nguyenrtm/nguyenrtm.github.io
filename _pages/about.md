@@ -15,8 +15,8 @@ Education
 
 Research Experience
 -----
-+ Undergraduate Research Assistant at Data Science & Knowledge Technology Lab, VNU-UET, advised by Dr. Hoang-Quynh Le.
-+ Research Intern at Center for Frontier AI Research, A*STAR Agency for Science, Technology and Research, advised by Prof. He Yang.
++ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">Data Science & Knowledge Technology Lab</a>, advised by Dr. Hoang-Quynh Le and MSc. Duy-Cat Can.
++ Research Intern at <a href="https://www.a-star.edu.sg/cfar">Center for Frontier AI Research, A*STAR Agency for Science, Technology and Research</a>, advised by Prof. He Yang.
 
 Selected Publications
 -----
