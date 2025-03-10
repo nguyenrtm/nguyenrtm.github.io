@@ -20,4 +20,6 @@ Research Experience
 
 Publications
 -----
-+ <p style="text-decoration:underline;"><a href="(https://aclanthology.org/2025.coling-main.49/)">Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding</a></p> **Binh-Nguyen Nguyen**, He Yang.
++ <a href="https://aclanthology.org/2025.coling-main.49/">Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding</a> **Binh-Nguyen Nguyen**, He Yang. <br>
+International Conference on Computational Linguistics (COLING) 2025.
+
