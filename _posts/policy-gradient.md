@@ -1,7 +1,7 @@
 ---
 title: 'Policy Gradient'
 date: 2025-04-02
-permalink: /posts/2025/04/Policy-Gradient
+permalink: /posts/2025/04/2025-04-02-policy-gradient
 tags:
  - Reinforcement Learning
  - Policy Gradient
