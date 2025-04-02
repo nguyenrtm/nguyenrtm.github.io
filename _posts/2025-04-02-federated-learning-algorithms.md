@@ -26,7 +26,7 @@ Definition of terms:
 
 For FedSGD, $C = 1$. This corresponds to a full-batch (non-stochastic) GD. For the current global model $w_t$, the average gradient on its global model is calculated for each client $$k$$.
 ```math
-F_k(w)=\frac{1}{n_k}\Sum_{i \in \mathcal{P}_k} f_i(w)
+F_k(w)=\frac{1}{n_k}\sum_{i \in \mathcal{P}_k} f_i(w)
 ```
 ```math
 g_k = \nabla F_k(w_t)
