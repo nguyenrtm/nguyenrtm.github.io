@@ -1,10 +1,20 @@
 ---
-title: 'Policy Gradient'
-date: 2025-04-02
-permalink: /posts/2025/04/policy-gradient
+title: 'Blog Post number 1'
+date: 2012-08-14
+permalink: /posts/2012/08/blog-post-1/
 tags:
- - Reinforcement Learning
- - Policy Gradient
+  - cool posts
+  - category1
+  - category2
 ---
 
-Policy Gradient methods target at modeling and optimizing the policy directly. The policy is modeled with a parameterized function respect to $$\theta, \pi_{\theta}(a|s)$$.
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
