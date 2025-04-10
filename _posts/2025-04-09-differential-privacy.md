@@ -23,7 +23,7 @@ Composition of Privacy Budgets
 
 If we have a mechanism $$M_1$$ that has a budget of $$\epsilon_1$$, and another mechanism $$M_2$$ that has budget $$\epsilon_2$$, the overall budget we need is at most $$\epsilon_1 + \epsilon_2$$. This occurs because the probabilities are multiplicative.
 
-$$e^{\epsilon_1}*e^{\epsilon_2} = e^{\epsilon_1+\epsilon_2}
+$$e^{\epsilon_1}*e^{\epsilon_2} = e^{\epsilon_1+\epsilon_2}$$
 
 And it turns out this also follows for $$(\epsilon, \delta)$$-differentially privacy, i.e. the overall mechanism ($$M_1$$ followed by $$M_2$$) is $$(\epsilon_1+\epsilon_2, \delta_1+\delta_2)$$ differentially private.
 
