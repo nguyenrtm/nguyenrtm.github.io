@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Binh-Nguyen Nguyen, a senior at University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). My research works focus on Natural Language Processing, particularly on the areas of Data Efficiency Methods for NLP and NLP for Biomedical Text.
+I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Prof. Hai Phan</a> starting Fall 2025. Currently, I am a Senior at University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). My current research interest lies in ensuring efficiency, security, trustworthiness of LLMs. Previously, during my undergraduate, I worked on natural language processing methods for biomedical applications.
 
 Education
 -----
@@ -17,8 +17,10 @@ _Aug 2021 - June 2025 (Expected)_
 
 Research Experience
 -----
-+ Research Intern at <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research, Singapore</a>, advised by <a href="https://he-y.github.io/">Prof. Yang He</a>.
-+ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">DS&KT Lab, University of Engineering and Technology, Vietnam National University Hanoi</a>, advised by <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Dr. Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">MSc. Duy-Cat Can</a>.
++ Research Intern at <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research, Singapore</a> <br>
+Advisor: <a href="https://he-y.github.io/">Prof. Yang He</a>.
++ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">DS&KT Lab, University of Engineering and Technology, Vietnam National University Hanoi</a> <br>
+Advisors: <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Dr. Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">MSc. Duy-Cat Can</a>.
 
 Selected Publications
 -----
