@@ -17,9 +17,9 @@ _Aug 2021 - June 2025 (Expected)_
 
 Research Experience
 -----
-+ Research Intern at <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research, Singapore</a> <br>
++ Research Intern at <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research, Singapore</a>. <br>
 Advisor: <a href="https://he-y.github.io/">Prof. Yang He</a>.
-+ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">DS&KT Lab, University of Engineering and Technology, Vietnam National University Hanoi</a> <br>
++ Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">DS&KT Lab, University of Engineering and Technology, Vietnam National University Hanoi</a>. <br>
 Advisors: <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Dr. Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">MSc. Duy-Cat Can</a>.
 
 Selected Publications
