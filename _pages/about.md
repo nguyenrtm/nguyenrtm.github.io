@@ -11,7 +11,7 @@ I am an incoming PhD Student in Data Science at New Jersey Institute of Technolo
 
 Education
 -----
-+ Bachelors Degree in Computer Science <br>
++ Bachelor's Degree in Computer Science <br>
 University of Engineering and Technology, Vietnam National University Hanoi <br>
 _Aug 2021 - June 2025 (Expected)_
 
