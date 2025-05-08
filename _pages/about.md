@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Prof. Hai Phan</a>, starting Fall 2025. Currently, I am a fourth-year undergraduate student at University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). My current research interest lies in ensuring the security, efficiency and trustworthiness of LLMs. Previously, during my undergraduate, I worked on natural language processing methods for biomedical applications.
+I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Prof. Hai Phan</a>, starting Fall 2025. Currently, I am a fourth-year undergraduate student at University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). My current research interest lies in ensuring the security, efficiency and trustworthiness of large language models. Previously, during my undergraduate, I worked on natural language processing methods for biomedical applications.
 
 Education
 -----
