@@ -46,4 +46,4 @@ Honors and Awards
 + Ranked 2nd at MEDIQA-Sum Shared Task at ImageCLEF 2023
 + POSCO Asia Fellowship 2022
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=5aISkaAUAU9CnH3uLhrAhX-iQ6Qszop2TQtI7i7wAj4"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5aISkaAUAU9CnH3uLhrAhX-iQ6Qszop2TQtI7i7wAj4"></script>
