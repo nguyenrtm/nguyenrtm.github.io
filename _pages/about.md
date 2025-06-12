@@ -30,7 +30,7 @@ _International Conference on Computational Linguistics (COLING) 2025_
 + <a href="https://link.springer.com/chapter/10.1007/978-3-031-90194-2_36">**Improving Drug-Drug Interaction Extraction from Biomedical Literature Using Deep Multimodal Fusion.**</a> <br>
 **Binh-Nguyen Nguyen**, Ba-Hoang Tran, Duy-Cat Can, Trung-Hieu Do, Hoang-Quynh Le <br>
 _International Conference on the Development of Biomedical Engineering in Vietnam (BME) 2024_
-+ <a href="[https://ieeexplore.ieee.org/document/10299512">**Enhancing Clinical Note Generation from Doctor-Patient Conversations through Semantic Partition-Oriented Summarization.**</a> <br>
++ <a href="https://ieeexplore.ieee.org/document/10299512">**Enhancing Clinical Note Generation from Doctor-Patient Conversations through Semantic Partition-Oriented Summarization.**</a> <br>
 **Binh-Nguyen Nguyen**, Duy-Cat Can, Hoang-Quynh Le <br>
 _IEEE International Conference on Knowledge and Systems Engineering (KSE) 2023_
 + <a href="https://ceur-ws.org/Vol-3497/paper-117.pdf">**UETCorn at MEDIQA-Sum 2023: Template-based Summarization for Clinical Note Generation from Doctor-Patient Conversation.**</a> <br>
