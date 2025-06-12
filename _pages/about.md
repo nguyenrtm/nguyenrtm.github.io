@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Prof. Hai Phan</a>, starting Fall 2025. Currently, I am a fourth-year undergraduate student at University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). My current research interest lies in ensuring the security, efficiency and trustworthiness of large language models. Previously, during my undergraduate, I worked on natural language processing methods for biomedical applications.
+I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Hai Phan</a>, starting Fall 2025. Currently, I am a fourth-year undergraduate student at University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). My current research interest lies in ensuring the security, efficiency and trustworthiness of large language models. Previously, during my undergraduate, I worked on natural language processing methods for biomedical applications.
 
 Education
 -----
@@ -18,15 +18,18 @@ _Aug 2021 - June 2025 (Expected)_
 Research Experience
 -----
 + Research Intern at <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research, Singapore</a>. <br>
-Advisor: <a href="https://he-y.github.io/">Prof. Yang He</a>.
+Advisor: <a href="https://he-y.github.io/">Yang He</a>.
 + Undergraduate Research Assistant at <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">DS&KT Lab, University of Engineering and Technology, Vietnam National University Hanoi</a>. <br>
-Advisors: <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Dr. Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">MSc. Duy-Cat Can</a>.
+Advisors: <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">Duy-Cat Can</a>.
 
 Selected Publications
 -----
 + <a href="https://aclanthology.org/2025.coling-main.49/">**Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding.**</a> <br>
 **Binh-Nguyen Nguyen**, Yang He <br>
 _International Conference on Computational Linguistics (COLING) 2025_
++ <a href="https://link.springer.com/chapter/10.1007/978-3-031-90194-2_36">**Improving Drug-Drug Interaction Extraction from Biomedical Literature Using Deep Multimodal Fusion.**</a> <br>
+**Binh-Nguyen Nguyen**, Ba-Hoang Tran, Duy-Cat Can, Trung-Hieu Do, Hoang-Quynh Le <br>
+_International Conference on the Development of Biomedical Engineering in Vietnam (BME) 2024_
 + <a href="[https://ieeexplore.ieee.org/document/10299512">**Enhancing Clinical Note Generation from Doctor-Patient Conversations through Semantic Partition-Oriented Summarization.**</a> <br>
 **Binh-Nguyen Nguyen**, Duy-Cat Can, Hoang-Quynh Le <br>
 _IEEE International Conference on Knowledge and Systems Engineering (KSE) 2023_
