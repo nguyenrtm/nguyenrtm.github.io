@@ -10,7 +10,7 @@ I am an incoming PhD Student in Data Science at New Jersey Institute of Technolo
 
 I obtained my Bachelor's Degree in Computer Science at University of Engineering and Technology, Vietnam National University Hanoi. During my undergraduate, I worked on natural language processing methods for biomedical applications with <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">Duy-Cat Can</a>.
 
-I am open to opportunities for collaboration, thoughtful discussion, and new ventures. If my research resonates with your interests or you’d like to explore potential projects together, feel free to get in touch!
+I am open to opportunities for collaborations and discussions. If my research resonates with your interests or you’d like to explore potential projects together, feel free to get in touch!
 
 Education
 -----
