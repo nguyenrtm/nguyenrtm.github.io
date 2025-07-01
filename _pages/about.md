@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -50,4 +49,8 @@ Honors and Awards
 + Ranked 2nd at MEDIQA-Sum Shared Task at ImageCLEF 2023
 + POSCO Asia Fellowship 2022
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=100&t=n&d=5aISkaAUAU9CnH3uLhrAhX-iQ6Qszop2TQtI7i7wAj4&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+<br>
+
+<div style="text-align: left;">
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=5aISkaAUAU9CnH3uLhrAhX-iQ6Qszop2TQtI7i7wAj4'></script>
+</div>
