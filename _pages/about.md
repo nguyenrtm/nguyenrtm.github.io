@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+About
+-----
 I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Hai Phan</a>, starting Fall 2025. My current research interest lies in ensuring the security, efficiency and trustworthiness of AI models. I obtained my Bachelor's Degree in Computer Science at University of Engineering and Technology, Vietnam National University Hanoi. During my undergraduate, I worked on natural language processing methods for biomedical applications.
 
 I am open to opportunities for collaborations and discussions. If my research resonates with your interests or you’d like to explore potential projects together, feel free to get in touch!
