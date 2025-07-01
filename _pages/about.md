@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Hai Phan</a>, starting Fall 2025. Currently, I am a fourth-year undergraduate student at University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). My current research interest lies in ensuring the security, efficiency and trustworthiness of large language models. Previously, during my undergraduate, I worked on natural language processing methods for biomedical applications.
+I am an incoming PhD Student in Data Science at New Jersey Institute of Technology, advised by <a href="https://sites.google.com/site/ihaiphan/">Hai Phan</a>, starting Fall 2025. My current research interest lies in ensuring the security, efficiency and trustworthiness of AI models.
+
+I obtained my Bachelor's Degree in Computer Science at University of Engineering and Technology, Vietnam National University Hanoi. During my undergraduate, I worked on natural language processing methods for biomedical applications with <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">Duy-Cat Can</a>.
+
+I am open to opportunities for collaboration, thoughtful discussion, and new ventures. If my research resonates with your interests or you’d like to explore potential projects together, feel free to get in touch!
 
 Education
 -----
@@ -45,3 +49,5 @@ Honors and Awards
 + Top 1 of Talent Category, Bosch Activator Scholarship 2023
 + Ranked 2nd at MEDIQA-Sum Shared Task at ImageCLEF 2023
 + POSCO Asia Fellowship 2022
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=5aISkaAUAU9CnH3uLhrAhX-iQ6Qszop2TQtI7i7wAj4&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
