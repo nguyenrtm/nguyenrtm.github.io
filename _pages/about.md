@@ -49,6 +49,6 @@ Honors and Awards
 
 <br>
 
-<div style="width: 270px; margin-left: 0; padding: 0;">
+<div style="width: 400px; margin-left: 0; padding: 0;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=5aISkaAUAU9CnH3uLhrAhX-iQ6Qszop2TQtI7i7wAj4'></script>
 </div>
