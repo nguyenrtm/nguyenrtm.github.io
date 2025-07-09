@@ -25,6 +25,9 @@ Advisors: <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Hoang
 
 Selected Publications
 -----
++ **A Multifaceted Approach to Drug-Drug Interaction Extraction with Fusion Strategies.**</a> <br>
+Ba-Hoang Tran, Hung-Manh Hoang, **Binh-Nguyen Nguyen**, Duy-Cat Can, Hoang-Quynh Le <br>
+_Journal of Biomedical Informatics, 2025_
 + <a href="https://aclanthology.org/2025.coling-main.49/">**Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding.**</a> <br>
 **Binh-Nguyen Nguyen**, Yang He <br>
 _International Conference on Computational Linguistics (COLING) 2025_
