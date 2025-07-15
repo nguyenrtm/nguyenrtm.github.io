@@ -54,6 +54,10 @@ Honors and Awards
 + Ranked 2nd at MEDIQA-Sum Shared Task at ImageCLEF 2023
 + POSCO Asia Fellowship 2022
 
+Contact
+-----
+Email: nbn4 [AT] njit [DOT] edu; nguyenrtm [AT] gmail [DOT] com
+
 <br>
 
 <div style="width: 600px; margin-left: 0; padding: 0;">
