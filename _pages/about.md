@@ -27,7 +27,7 @@ Selected Publications
 -----
 + **A Multifaceted Approach to Drug-Drug Interaction Extraction with Fusion Strategies.** <br>
 Ba-Hoang Tran, Hung-Manh Hoang, **Binh-Nguyen Nguyen**, Duy-Cat Can, Hoang-Quynh Le <br>
-_Journal of Biomedical Informatics, 2025_
+_Journal of Biomedical Informatics, 2025_ <br>
 [<a href="https://doi.org/10.1016/j.jbi.2025.104874">Paper</a>] [<a href="https://github.com/hoangbros03/DDI-Multimodals-Fusion">Code</a>]
 + **Swift Cross-Dataset Pruning: Enhancing Fine-Tuning Efficiency in Natural Language Understanding.** <br>
 **Binh-Nguyen Nguyen**, Yang He <br>
