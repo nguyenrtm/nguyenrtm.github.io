@@ -14,7 +14,7 @@ Education
 -----
 + Bachelor's Degree in Computer Science <br>
 University of Engineering and Technology, Vietnam National University Hanoi <br>
-_Aug 2021 - June 2025_
+_2021-2025_
 
 Research Experience
 -----
