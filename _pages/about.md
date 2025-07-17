@@ -18,10 +18,10 @@ _2021 - 2025_
 
 Research Experience
 -----
-+ Research Intern | Jul 2024 - Dec 2024 <br>
++ Research Intern | _Jul 2024 - Dec 2024_ <br>
 <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research, Singapore</a>. <br>
 Advisor: <a href="https://he-y.github.io/">Yang He</a>.
-+ Undergraduate Research Assistant | Aug 2022 - Jul 2024 <br>
++ Undergraduate Research Assistant | _Aug 2022 - Jul 2024_ <br>
 <a href="https://www.fit.uet.vnu.edu.vn/en/knowledge-technology-and-data-science-laboratory/">DS&KT Lab, University of Engineering and Technology, Vietnam National University Hanoi</a>. <br>
 Advisors: <a href="https://scholar.google.com/citations?user=LBYOZ00AAAAJ">Hoang-Quynh Le</a> and <a href="https://scholar.google.com/citations?user=3mZclRIAAAAJ">Duy-Cat Can</a>.
 
