@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Binh-Nguyen Nguyen"
 title_separator          : "-"
 name                     : &name "Binh-Nguyen Nguyen"
-description              : &description "Undergraduate Student at University of Engineering and Technology, Vietnam National University Hanoi"
+description              : &description "PhD Student at New Jersey Institute of Technology"
 url                      : https://nguyenrtm.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nguyenrtm/nguyenrtm.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "pfp.jpg"
   name             : "Binh-Nguyen Nguyen"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming PhD Student @ NJIT"
+  bio              : "PhD Student @ NJIT"
   location         : "Hanoi, Vietnam"
   employer         :
   uri              : # URL
