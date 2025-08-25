@@ -18,6 +18,9 @@ _2021 - 2025_
 
 Research Experience
 -----
++ Graduate Research Assistant | _Apr 2025 - Present_ <br>
+<a href="https://www.njit.edu/">AI4Good Lab, New Jersey Institute of Technology</a>. <br>
+Advisor: <a href="https://sites.google.com/site/ihaiphan/">Hai Phan</a>.
 + Research Intern | _Jul 2024 - Dec 2024_ <br>
 <a href="https://www.a-star.edu.sg/cfar">CFAR, A*STAR Agency for Science, Technology and Research, Singapore</a>. <br>
 Advisor: <a href="https://he-y.github.io/">Yang He</a>.
