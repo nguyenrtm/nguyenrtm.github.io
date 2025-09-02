@@ -53,7 +53,7 @@ _Working Notes of CLEF 2023_ <br>
 
 Teaching
 -----
-+ Basic Foundations of Artificial Intelligence (DS110), Data Visualization (CS450), Data Visualization and Interpretation (DS650) - Fall 2025, NJIT, Teaching Assistant
++ Basic Foundations of Artificial Intelligence (DS110), Introduction to Machine Learning (CS375), Data Visualization (CS450) - Fall 2025, NJIT, Teaching Assistant
 
 Honors and Awards
 -----
