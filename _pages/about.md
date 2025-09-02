@@ -60,6 +60,10 @@ Honors and Awards
 + Ranked 2nd at MEDIQA-Sum Shared Task at ImageCLEF 2023
 + POSCO Asia Fellowship 2022
 
+Teaching
+-----
++ Basic Foundations of Artificial Intelligence (DS110), Data Visualization (CS450), Data Visualization and Interpretation (DS650) - Fall 2025, NJIT, Teaching Assistant
+
 Contact
 -----
 Email: nbn4 [AT] njit [DOT] edu; nguyenrtm [AT] gmail [DOT] com
